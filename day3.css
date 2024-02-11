@@ -1,0 +1,13 @@
+body{background-color: aquamarine;}
+
+#p1{color:brown; text-size-adjust: ;}
+#box1{ border: 10px solid rgb(126, 32, 32);}
+a:link{border:2px  skyblue;
+background-color: skyblue;
+color:red;
+margin-right: 5px;
+padding:10px;
+text-decoration: none;
+}
+a:hover{background-color: black;
+color:white;}

@@ -1,0 +1,10 @@
+body
+{background-color:aqua}
+
+	p{border-top: 3px purple solid;
+	border-left:5px darkgreen solid;
+	padding:25px;
+	margin:20px;
+	}
+	a:link{background-color:white; text-decoration-line: underline; text-size-adjust: bold;
+	display:inline;}
